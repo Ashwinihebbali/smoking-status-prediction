@@ -1,4 +1,4 @@
-# Smoking Status Prediction 
+# Smoking Status Prediction  
 
 A machine learning project that predicts smoking status based on various health and demographic indicators using classification algorithms.
 
